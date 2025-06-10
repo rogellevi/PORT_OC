@@ -1,4 +1,4 @@
-#### Instalacion
+#### Instalación
 Primero Teclee : sudo su
 
 Instalación2：`wget https://raw.githubusercontent.com/rogellevi/root/master/root2 && bash root2`
