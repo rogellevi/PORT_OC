@@ -11,4 +11,4 @@ iptables -P OUTPUT ACCEPT
 iptables-save > /etc/iptables/rules.v4
 
 echo "Todas las reglas fueron abiertas Exitosamente."
-rm firewall
+rm firewall.sh
