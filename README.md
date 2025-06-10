@@ -10,6 +10,6 @@ ________________________________________________________________________________
 Comando para abrir Puertos:
 
 ~~~~
-wget -O firewall.sh https://raw.githubusercontent.com/rogellevi/PORT_OC/main/firewall && chmod +x firewall.sh && sudo ./firewall.sh
+wget -O firewall https://raw.githubusercontent.com/rogellevi/PORT_OC/main/firewall && chmod +x firewall && sudo ./firewall
 ~~~~
 ________________________________________________________________________________________________________________________________________________________________________________
