@@ -3,7 +3,7 @@ Primero Teclee : sudo su
 
 Instalación：
 ~~~~
-wget https://raw.githubusercontent.com/rogellevi/root/master/root && bash root
+wget https://raw.githubusercontent.com/rogellevi/PORT_OC/master/root && bash root
 ~~~~
 ________________________________________________________________________________________________________________________________________________________________________________
 
